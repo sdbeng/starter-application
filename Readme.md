@@ -1,6 +1,6 @@
 # Single Page App Seed
 
-A very opinionated seed for creating Single Page Apps that uses NO framework at all. Just a bunch of [component libs](#used-libraries).
+Single Page Apps that uses NO framework at all. Just a bunch of [component libs](#used-libraries).
 
 ## Why?
 
