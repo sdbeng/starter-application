@@ -29,7 +29,7 @@ Just run `npm install`, run `gulp` and then go to `http://localhost:3000`.
 
 ## Feedback
 
-Do you have any feedback about the app? Just let us know :)
+Do you have any feedback about the app?
 
 ## License
 
